@@ -57,28 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fearless-27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fearless-27&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearless-27&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fearless-27&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
