@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **3rd Year B.E. Student** — Artificial Intelligence & Data Science
+- 🎓 **3rd Year B.Tech. Student** — Artificial Intelligence & Data Science
 - 🏫 **Anna University Regional Campus, Coimbatore**
 - 🔭 Currently working on **AI & Data Science Projects**
 - 🌱 Currently learning **Machine Learning, Deep Learning & Python**
